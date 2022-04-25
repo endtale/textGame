@@ -1,5 +1,5 @@
 # textGame
-old textGame 
+old project
 
 console text game 
 
